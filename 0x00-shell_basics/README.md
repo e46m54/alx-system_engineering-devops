@@ -1,4 +1,5 @@
 Where am I?                                  >      pwd
+
 What’s in there?                             >      ls
 There is no place like home                  >      cd ~
 The long format                              >      ls -l
