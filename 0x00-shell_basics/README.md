@@ -10,13 +10,13 @@ Hidden files                                 >      ls -la
 
 I love numbers                               >      ls -l -n -a
 
-Welcome holberton                            >      mkdir /tmp/holberton
+Welcome                                      >      mkdir /tmp/my_first_directory
 
-Betty in Holberton                           >      mv /tmp/betty /tmp/holberton/
+Betty in my_first_directory                  >      mv /tmp/betty /tmp/my_first_directory/
 
-Bye bye Betty                                >      rm /tmp/holberton/betty
+Bye bye Betty                                >      rm /tmp/my_first_directory/betty
 
-Bye bye Holberton                            >      rmdir /tmp/holberton
+Bye bye my_first_directory                   >      rmdir /tmp/my_first_directory
 
 Back to the future                           >      cd -
 
@@ -32,7 +32,7 @@ Let’s move                                   >      mv [ABCDEFGHIJKLMNOPQRSTUV
 
 Clean Emacs                                  >      rm *~
 
-Tree                                         >      mkdir -p welcome/to/holberton
+Tree                                         >      mkdir -p welcome/to/school
 
 Life is a series of commas, not periods      >      ls -m -F -p -a
 
